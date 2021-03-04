@@ -19,6 +19,14 @@ your accountname and password should be used in the notecard which has to be in 
 
 The name of the notecard must be: TranslatorConfigNC<br>
 
+Initial ojbect setting in SL:<br>
+1. create a new translator object<br>
+2. put the scripts and the NC into the object<br>
+3. attach the object and start translation<br>
+
+Debug settings:<br>
+At the moment debug settings are activated. To deactivate them, simple set the constant debug_output in the script IOHandler to FALSE.<br>
+
 
 
 
